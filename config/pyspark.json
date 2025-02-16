@@ -1,0 +1,5 @@
+{
+    "prompt" :"convert csv file in {input_path} to parquet file and store it in {output_path}",
+    "input_path":"/Users/chaitanyavarmamudundi/Desktop/workspace/langchain-project/data/data.csv",
+    "output_path" : "/Users/chaitanyavarmamudundi/Desktop/workspace/langchain-project/data_parquet/"
+}
